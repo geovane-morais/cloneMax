@@ -1,0 +1,9 @@
+Cripto
+aes_decrypt(senha,'cloneMax');
+aes_encrypt(senha,'cloneMax');
+ 
+EXPORT DATABASE
+mysqldump -h127.0.0.1 -uroot -p cloneMax > beginProject.sql
+ 
+IMPORT
+mysql -h127.0.0.1 -uroot -p cloneMax < beginProject.sql
