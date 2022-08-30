@@ -1,4 +1,4 @@
-# Clones Max
+# Clone Max
 
 ## Repositorio referente a clone do HBO Max..
 ------
